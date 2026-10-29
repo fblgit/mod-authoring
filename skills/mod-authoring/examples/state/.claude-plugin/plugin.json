@@ -1,0 +1,7 @@
+{
+  "name": "state-counter",
+  "version": "0.1.0",
+  "description": "A pane with a counter kept in $.state, restored after /clear, /resume and /branch",
+  "author": { "name": "You" },
+  "types": "./types/index.d.ts"
+}

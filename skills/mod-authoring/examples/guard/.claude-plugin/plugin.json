@@ -1,0 +1,6 @@
+{
+  "name": "guard-mod",
+  "version": "0.1.0",
+  "description": "Denies Edit on .env files; the guard fails closed",
+  "author": { "name": "You" }
+}

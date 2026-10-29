@@ -1,0 +1,6 @@
+{
+  "name": "test-mod",
+  "version": "0.1.0",
+  "description": "A /greet command with a test",
+  "author": { "name": "You" }
+}

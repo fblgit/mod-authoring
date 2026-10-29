@@ -1,0 +1,7 @@
+{
+  "name": "mod-authoring",
+  "version": "0.1.1",
+  "description": "A skill for building, testing, securing and auditing Claude Code mods",
+  "author": { "name": "fblgit" },
+  "license": "MIT"
+}

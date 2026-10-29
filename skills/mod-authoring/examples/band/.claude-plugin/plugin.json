@@ -1,0 +1,7 @@
+{
+  "name": "turn-band",
+  "version": "0.1.0",
+  "description": "Shows the last turn's seconds and tool calls above the prompt, with a Hide button",
+  "author": { "name": "You" },
+  "types": "./types/index.d.ts"
+}
