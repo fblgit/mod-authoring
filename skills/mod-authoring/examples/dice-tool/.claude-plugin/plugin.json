@@ -1,0 +1,6 @@
+{
+  "name": "dice-tool",
+  "version": "0.1.0",
+  "description": "Registers a tool the model can call and answers it",
+  "author": { "name": "You" }
+}
